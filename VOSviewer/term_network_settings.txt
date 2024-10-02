@@ -1,0 +1,9 @@
+Title and Abstract fields
+binary counting
+50 minimum occurrences
+60% visualized terms
+
+Excluded terms: see excluded_terms.txt
+
+Scale	1.31
+Size Variation	0.78
