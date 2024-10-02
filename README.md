@@ -3,6 +3,12 @@
 Authored by: Bittermann, A., Petrule, C., Ritter, V., Haberkamp, A., Hofmann, S. G., Rief, W., & the PsyChange network  
 Corresponding Author: André Bittermann, abi@leibniz-psychology.org
 
+👉 **This repo hosts the VOSviewer files for access with [VOSviewer online](https://app.vosviewer.com/)** 👈
+
+You can access them by clicking the following links:
+- [Collaboration Network](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/abitter/translat_psy_treat_ESM/refs/heads/main/VOSviewer/collaboration.json&item_size=5&item_color=2)
+- [Term Network](https://app.vosviewer.com/?json=https://raw.githubusercontent.com/abitter/translat_psy_treat_ESM/refs/heads/main/VOSviewer/term.json)
+
 Published Article: [to be included]
 
 See also on PsychArchives:
