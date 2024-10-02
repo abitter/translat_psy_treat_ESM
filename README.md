@@ -1,4 +1,4 @@
-# Electronic Supplementary Material for "Research on Translational Psychological Treatment: A Comprehensive Bibliometric Analysis"
+# Network Files for "Research on Translational Psychological Treatment: A Comprehensive Bibliometric Analysis"
 
 Authored by: Bittermann, A., Petrule, C., Ritter, V., Haberkamp, A., Hofmann, S. G., Rief, W., & the PsyChange network  
 Corresponding Author: André Bittermann, abi@leibniz-psychology.org
